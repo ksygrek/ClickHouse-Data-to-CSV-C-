@@ -1,0 +1,15 @@
+C:\Users\ksygrek\source\repos\GetClickHouseData\GetClickHouseData\bin\Debug\netcoreapp3.0\GetClickHouseData.exe
+C:\Users\ksygrek\source\repos\GetClickHouseData\GetClickHouseData\obj\Debug\netcoreapp3.0\GetClickHouseData.csprojAssemblyReference.cache
+C:\Users\ksygrek\source\repos\GetClickHouseData\GetClickHouseData\obj\Debug\netcoreapp3.0\GetClickHouseData.AssemblyInfoInputs.cache
+C:\Users\ksygrek\source\repos\GetClickHouseData\GetClickHouseData\obj\Debug\netcoreapp3.0\GetClickHouseData.AssemblyInfo.cs
+C:\Users\ksygrek\source\repos\GetClickHouseData\GetClickHouseData\bin\Debug\netcoreapp3.0\GetClickHouseData.deps.json
+C:\Users\ksygrek\source\repos\GetClickHouseData\GetClickHouseData\bin\Debug\netcoreapp3.0\GetClickHouseData.runtimeconfig.json
+C:\Users\ksygrek\source\repos\GetClickHouseData\GetClickHouseData\bin\Debug\netcoreapp3.0\GetClickHouseData.runtimeconfig.dev.json
+C:\Users\ksygrek\source\repos\GetClickHouseData\GetClickHouseData\bin\Debug\netcoreapp3.0\GetClickHouseData.dll
+C:\Users\ksygrek\source\repos\GetClickHouseData\GetClickHouseData\bin\Debug\netcoreapp3.0\GetClickHouseData.pdb
+C:\Users\ksygrek\source\repos\GetClickHouseData\GetClickHouseData\bin\Debug\netcoreapp3.0\ClickHouse.Ado.dll
+C:\Users\ksygrek\source\repos\GetClickHouseData\GetClickHouseData\bin\Debug\netcoreapp3.0\LZ4.dll
+C:\Users\ksygrek\source\repos\GetClickHouseData\GetClickHouseData\bin\Debug\netcoreapp3.0\LZ4pn.dll
+C:\Users\ksygrek\source\repos\GetClickHouseData\GetClickHouseData\obj\Debug\netcoreapp3.0\GetClickHouseData.csproj.CopyComplete
+C:\Users\ksygrek\source\repos\GetClickHouseData\GetClickHouseData\obj\Debug\netcoreapp3.0\GetClickHouseData.dll
+C:\Users\ksygrek\source\repos\GetClickHouseData\GetClickHouseData\obj\Debug\netcoreapp3.0\GetClickHouseData.pdb
